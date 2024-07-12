@@ -14,6 +14,7 @@ This repository contains a Python script that utilizes Selenium to scrape limous
 - Python 3.x
 - Selenium package
 - ChromeDriver (Ensure the path to ChromeDriver is correct)
+- May need to setup virtual environment
 
 ## Usage
 
