@@ -5,7 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 
-service = Service("/Users/reyab/Code/python/Limousine Scraping/chromedriver")
+service = Service("chromedriver")
 driver = webdriver.Chrome(service=service)
 
 def scroll_down(driver):
